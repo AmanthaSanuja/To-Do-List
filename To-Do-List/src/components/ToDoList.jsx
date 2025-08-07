@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 
 const API_URL = 'http://localhost:8080/api/todos';
 
